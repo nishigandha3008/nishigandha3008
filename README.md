@@ -41,7 +41,7 @@ Nishigandha-Charhate Readme.md
 ## Programming Languages
 
 <p>
-<a href="https://github.com/nishigandha3008/java"><img src="https://skillicons.dev/icons?i=java"/></a>
+<a href="[https://github.com/nishigandha3008/java](https://github.com/nishigandha3008/Java-Codes.git)"><img src="https://skillicons.dev/icons?i=java"/></a>
 <img src="https://skillicons.dev/icons?i=python"/>
 <img src="https://skillicons.dev/icons?i=javascript"/>
 </p>
