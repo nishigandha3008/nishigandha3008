@@ -42,7 +42,7 @@ Nishigandha-Charhate Readme.md
 
 <p>
 <a href="https://github.com/nishigandha3008/java"><img src="https://skillicons.dev/icons?i=java"/></a>
-<a href="https://github.com/nishigandha3008/Python" <img src="https://skillicons.dev/icons?i=python"/></a>
+<a href="https://github.com/nishigandha3008/Python"><img src="https://skillicons.dev/icons?i=python"/></a>
 <img src="https://skillicons.dev/icons?i=javascript"/>
 </p>
 
