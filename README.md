@@ -1,9 +1,9 @@
 Nishigandha-Charhate Readme.md
 <h1 align="center">Hi 👋, I'm Nishigandha Charhate</h1>
-<h3 align="center">Software Engineer | Java Developer | Full Stack Developer | Problem Solver</h3>
+<h3 align="center">Data Scientist | Java Developer | Data Analyst | PowerBI</h3>
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=24&duration=3000&pause=1000&color=0E75B6&center=true&vCenter=true&width=650&lines=Software+Engineer;Learning+MERN+Stack;PowerBI+Expert;Open+to+Work" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=24&duration=3000&pause=1000&color=0E75B6&center=true&vCenter=true&width=650&lines=Data+Scientist;Learning+AI;PowerBI+Expert;Open+to+Work" />
 </p>
 
 ---
@@ -12,7 +12,7 @@ Nishigandha-Charhate Readme.md
 
 🎓 **Information Technology Graduate**
 
-💼 Looking for Software Engineer / Full Stack Developer opportunities.
+💼 Looking for Data Scientist opportunities.
 
 💻 Passionate about Web Development, Java Programming, and Problem Solving.
 
@@ -51,13 +51,6 @@ Nishigandha-Charhate Readme.md
 <p>
 <img src="https://skillicons.dev/icons?i=html"/>
 <img src="https://skillicons.dev/icons?i=css"/>
-<img src="https://skillicons.dev/icons?i=react"/>
-</p>
-
-## Backend
-
-<p>
-<img src="https://skillicons.dev/icons?i=nodejs"/>
 </p>
 
 ## Database
@@ -78,10 +71,6 @@ Nishigandha-Charhate Readme.md
 ---
 
 # 📚 Currently Learning
-
-✔ MERN Stack
-
-✔ REST APIs
 
 ✔ Java DSA
 
