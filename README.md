@@ -14,7 +14,7 @@ Nishigandha-Charhate Readme.md
 
 💼 Looking for Data Scientist opportunities.
 
-💻 Passionate about Web Development, Java Programming, and Problem Solving.
+💻 Passionate about Data Visualization, Python Programming, Java Programming, and Problem Solving.
 
 🌱**Currently learning**
 
