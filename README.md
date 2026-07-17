@@ -18,10 +18,9 @@ Nishigandha-Charhate Readme.md
 
 🌱**Currently learning**
 
-- React.js
-- Node.js
+- Power BI
+- Tableau
 - MongoDB
-- Express.js
 - Data Structures & Algorithms
 
 🚀 Building
@@ -72,7 +71,7 @@ Nishigandha-Charhate Readme.md
 
 # 📚 Currently Learning
 
-✔ Java DSA
+✔ Data analysis
 
 ✔ SQL
 
