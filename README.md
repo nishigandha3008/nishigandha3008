@@ -80,8 +80,17 @@ Nishigandha-Charhate Readme.md
 
 ---
 
-# 🌟 Featured Projects
-## 📌 Diabetic Prediction System
+## 🌟 Featured Projects
+
+### 🩺Diabetes Prediction System
+<a href="https://github.com/nishigandha3008/Diabetes-Prediction" target="_blank">
+<img src="https://skillicons.dev/icons?i=github" width="45"/></a>
+&nbsp;
+<b>👈 Click Here to View Project</b></a>
+
+Machine Learning web application developed using Python, Flask, Scikit-Learn, Pandas, HTML, and CSS.
+
+**Tech Stack:** Python • Flask • Scikit-Learn • Pandas • NumPy • HTML • CSS
 
 - Machine Learning based disease prediction project developed using Python.
 - Predicts diabetes risk using patient health data.
